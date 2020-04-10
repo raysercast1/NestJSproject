@@ -1,0 +1,6 @@
+origin: http://nestjs-task-management-frontend-rayser.s3-website-us-west-1.amazonaws.com
+
+db:
+  synchronize: false
+
+
